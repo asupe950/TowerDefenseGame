@@ -9,7 +9,7 @@ public class Enemy {
     private int health;
 
 
-    public Enemy(float x, float y, int w, int h, int hp){
+    public Enemy(float x, float y, int w, int h){
         this.x = x;
         this.y = y;
         this.width = w;
