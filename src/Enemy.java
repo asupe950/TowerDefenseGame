@@ -5,10 +5,6 @@ public class Enemy {
     private float width, height;
     private float xSpeed;
 
-
-    private int health;
-
-
     public Enemy(float x, float y, int w, int h){
         this.x = x;
         this.y = y;
